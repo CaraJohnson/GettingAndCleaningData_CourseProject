@@ -1,4 +1,4 @@
-#Getting and Cleaning Data Course Project
+#Getting and Cleaning Data - Course Project
 
 ##The course project consists of the following files.
 * run_analysis.R
